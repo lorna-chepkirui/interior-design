@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/static/optimized/rev-2b3fe8f/online-decorating/wp-content/uploads/2021/06/Contemporary-design-by-an-online-designer-on-one-of-the-best-interior-design-websites.jpg");
+    background-color: #cccccc;
+   }
+   .title{
+    display: flex;
+    
+  
+  }
+
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: relative;
+    left: 600px;
+  }
